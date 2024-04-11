@@ -9,7 +9,7 @@ The Random Chooser simplifies the process of decision-making by randomly selecti
 ## How to Use
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/random-chooser.git
+git clone https://github.com/rajeshchau/random-choser.git
 
 markdown
 Copy code
